@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\incremental\\mergeUserDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]
