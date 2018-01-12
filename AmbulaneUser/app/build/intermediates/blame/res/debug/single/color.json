@@ -1,10 +1,174 @@
 [
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_tint_default.xml"
     },
     {
@@ -20,8 +184,20 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
@@ -36,10 +212,6 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
@@ -48,88 +220,104 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_btn_colored_text_material.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\color\\common_google_signin_btn_tint.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_tint_default.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
@@ -140,12 +328,12 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
@@ -160,27 +348,23 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\color\\common_google_signin_btn_tint.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\color\\abc_tint_edittext.xml"
     }
 ]

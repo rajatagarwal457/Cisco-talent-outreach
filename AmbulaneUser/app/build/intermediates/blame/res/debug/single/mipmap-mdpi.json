@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
         "source": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
@@ -8,11 +12,23 @@
         "source": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
         "source": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
         "source": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     }
 ]

@@ -1,0 +1,4 @@
+#Fri Jan 12 19:02:02 IST 2018
+base.0=C\:\\Users\\Home\\Downloads\\AmbulaneUser-20180111T132014Z-001\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

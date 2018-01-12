@@ -11,18 +11,32 @@
         android:name="com.google.android.gms.maps.SupportMapFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".MapsActivity"
-        tools:layout="@layout/abc_list_menu_item_radio"
+        android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_alignParentStart="true" />
+        tools:context=".MapsActivity"
+        tools:layout="@layout/abc_list_menu_item_radio" />
 
     <ImageButton
         android:id="@+id/Info"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/Settings"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="53dp"
+        android:layout_marginTop="13dp"
         android:background="?android:attr/colorBackground"
         android:elevation="0dp"
         app:srcCompat="@android:drawable/ic_menu_help" />
+
+    <ImageButton
+        android:onClick="goToActivity3"
+        android:id="@+id/imageButton6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/Info"
+        android:layout_marginStart="8dp"
+        android:background="@android:color/transparent"
+        app:srcCompat="@android:drawable/ic_menu_revert" />
 
 </RelativeLayout>

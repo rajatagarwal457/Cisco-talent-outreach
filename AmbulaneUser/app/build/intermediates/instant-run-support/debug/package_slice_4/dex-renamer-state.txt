@@ -1,0 +1,4 @@
+#Wed Jan 10 18:11:07 IST 2018
+base.0=C\:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=C\:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

@@ -2,5 +2,17 @@
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_user_icon.png",
         "source": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\src\\main\\res\\drawable-xhdpi\\ic_user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_user_icon.png",
+        "source": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\src\\main\\res\\drawable-xhdpi\\ic_user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher_background.png",
+        "source": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_user_icon.png",
+        "source": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\src\\main\\res\\drawable-xhdpi\\ic_user_icon.png"
     }
 ]

@@ -17,6 +17,7 @@ import android.os.Bundle;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.util.Log;
+import android.view.View;
 import android.widget.Toast;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
@@ -313,5 +314,9 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
         protected void onPostExecute(Void result) {
             super.onPostExecute(result);
         }
+    }
+    public void goToActivity3 (View view){
+        Intent intent = new Intent(this, Main2Activity.class);
+        startActivity(intent);
     }
 }

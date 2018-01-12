@@ -1,15 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_blue_ambulance_icon.png",
-        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\src\\main\\res\\drawable\\ic_blue_ambulance_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_blue_ambulance_icon.png",
-        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\src\\main\\res\\drawable\\ic_blue_ambulance_icon.png"
-    },
-    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
@@ -20,16 +16,24 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
@@ -52,12 +56,16 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
@@ -68,8 +76,436 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backg2.png",
+        "source": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\src\\main\\res\\drawable\\backg2.png"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reg2.png",
+        "source": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\src\\main\\res\\drawable\\reg2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_blue_ambulance_icon.png",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\src\\main\\res\\drawable\\ic_blue_ambulance_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_blue_ambulance_icon.png",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\src\\main\\res\\drawable\\ic_blue_ambulance_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logi2.png",
+        "source": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\src\\main\\res\\drawable\\logi2.png"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
@@ -92,72 +528,60 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_blue_ambulance_icon.png",
+        "source": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\src\\main\\res\\drawable\\ic_blue_ambulance_icon.png"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logi.png",
+        "source": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\src\\main\\res\\drawable\\logi.png"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logi.png",
+        "source": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\src\\main\\res\\drawable\\logi.png"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
@@ -168,36 +592,20 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
@@ -208,6 +616,22 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reg.png",
+        "source": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\src\\main\\res\\drawable\\reg.png"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
@@ -216,12 +640,8 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
@@ -232,12 +652,24 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
@@ -248,56 +680,56 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_blue_ambulance_icon.png",
+        "source": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\src\\main\\res\\drawable\\ic_blue_ambulance_icon.png"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\src\\main\\res\\drawable\\logo.png"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
@@ -308,6 +740,14 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
@@ -316,44 +756,56 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\ccf689b1d02b4de81296fbfe44174dee7864a92e\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
@@ -364,20 +816,12 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
@@ -388,39 +832,55 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\652ea74422ef24e2553924bf3041916e17765d73\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\Subrata\\Desktop\\Cisco-talent-outreach-master\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Subrata\\.android\\build-cache\\8753c48d403d489b191b212775f498a6b63420bd\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\3ef8b063c29b51f048274e73ce6850a0745417eb\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\src\\main\\res\\drawable\\login.png"
     },
     {
         "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Aditya\\.android\\build-cache\\4a72038f238bc17b6862d26191ab5f80210dcb1f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     }
 ]

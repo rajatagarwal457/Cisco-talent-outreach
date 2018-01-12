@@ -1,0 +1,109 @@
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+    tools:context="ambulane.example.ambulane.login">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/backg2"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton7"
+        android:layout_width="293dp"
+        android:layout_height="57dp"
+        android:layout_below="@+id/editText3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="41dp"
+        android:background="@android:color/transparent"
+        android:onClick="goToActivity3"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/login"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="298dp" />
+
+    <ImageButton
+        android:onClick="goToActivity1"
+        android:id="@+id/imageButton8"
+        android:layout_width="312dp"
+        android:layout_height="72dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="12dp"
+        android:backgroundTint="@android:color/transparent"
+        android:scaleType="fitEnd"
+        app:srcCompat="@drawable/reg2"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="423dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="87dp"
+        android:layout_height="21dp"
+
+        android:layout_alignStart="@+id/editText4"
+        android:layout_below="@+id/editText4"
+        android:layout_marginTop="20dp"
+        android:text="Password"
+        android:textColor="#ECF0F1"
+        android:textSize="16dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="47dp"
+        android:layout_height="20dp"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/textView"
+        android:layout_marginTop="49dp"
+        android:text="Email"
+        android:textColor="#ECF0F1"
+        android:textSize="16dp" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="336dp"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="Enter Password"
+        android:inputType="textPassword"
+        android:textColor="#ECF0F1" />
+
+    <EditText
+        android:id="@+id/editText4"
+        style="@style/Widget.AppCompat.EditText"
+        android:layout_width="336dp"
+        android:layout_height="wrap_content"
+
+        android:layout_alignStart="@+id/editText3"
+        android:layout_below="@+id/textView2"
+        android:ems="10"
+        android:hint="Enter Email Adress"
+        android:inputType="textEmailAddress"
+        android:textColor="#ECF0F1" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="163dp"
+        android:layout_height="42dp"
+        android:layout_above="@+id/imageButton8"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/transparent"
+        android:text="Trouble Signing In ?"
+        android:textColor="#BDC3C7"
+        tools:layout_editor_absoluteX="99dp"
+        tools:layout_editor_absoluteY="381dp" />
+
+</RelativeLayout>
