@@ -1,4 +1,7 @@
-#Tue Dec 05 21:37:03 IST 2017
-base.0=C\:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=C\:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+#Mon Jan 22 22:30:04 IST 2018
+base.0=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a7dc4b74505c9200c72d69476804a00f5a92b6c5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a0b58a7f44cb8e5521aa5f704a7009561ce48fb4\\classes.dex
+base.1=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a0b58a7f44cb8e5521aa5f704a7009561ce48fb4
+file.0=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a7dc4b74505c9200c72d69476804a00f5a92b6c5\\classes.dex

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2902d80e9a7a79749d81cd04493bfe5fab96c1d9">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a7dc4b74505c9200c72d69476804a00f5a92b6c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\.android\build-cache\fd7a7bb42a2387453ab2c6f773f979b5fcf6bb0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea4373c6ba7a2b4e7fb4bfb2a833afc701bc50eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\.android\build-cache\981da6e58290d5e1c3795298a243c5862f06d28a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3de17e5f82f7fb258290c8081910c302abc7dd75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\.android\build-cache\9fadf233754e4d20a9a62f43e33b0acd35db4e3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_044d2b274c04d9c71c769efc91ab16598b8a905b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\.android\build-cache\bbe4ca3f8c9a11d45506e27d29aa21a45a62dc80\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19d4fe6ef3193915cc576a631d489f1b62d3d17e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a0b58a7f44cb8e5521aa5f704a7009561ce48fb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_c35e78e9c1038d09003938de97cf8178c251f68c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\.android\build-cache\fa28295c3e17935312c3d57bcb312f53d0b49396\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7bdda3b8d972ad5682a5137896d37871d914691\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\.android\build-cache\0444db98f270ea143d616c68f03b521bc8eca2b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63724761bed97f502568f40f0a231da81be65d81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\.android\build-cache\bb9d27f6c2aece480341c978f45c3029efdfc2ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a371845259de758d3722ea40d3550c8db77336d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\.android\build-cache\c0c32bce4ffa9bbad5dcd657482e9416c4809705\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b67fa783eeda9410d5b53d1b609f75ca1d3e6961\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\.android\build-cache\03c2a89465c6d1613113268998a17a6270681e8f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ba9323080de018b6bef9c2aa2f9bba9677f4b11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\.android\build-cache\83b3631c643fd86da4b6e295511d1ea880cbb92f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e8a9bd3209999ac432294026d65b7d29b85c338\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\.android\build-cache\876322c1d5efb1ba9dbcb9e1f3cb78755223f338\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87004f0276099c858326390bb9fb5bf323853803\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_74a0c75b30fb2693b92143fea24965c4046d4aff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\.android\build-cache\f609e89e713621645a1fdceca7875fea2e2a0450\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d3326e714eb5dfb9adebdfb1f2a3b8fb2d1313a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\.android\build-cache\82082c255f30e145d9793eb84f6ae970f7846044\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_736f1fcf8f31c0a211838796cc22f1a00eae2d6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.1\f5aa318bda4c6c8d688c9d00b90681dcd82ce636\httpcore-4.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpcore-4.4.1_4989cdb13c6e0d27332223c6fa5f6fe47575f354\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\.android\build-cache\798c0244c66a9e8e84123b48102f42537dc80a1a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_490e2a546003596eb8c3b3d04929183949f55981\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayush\.android\build-cache\272568a624a12f8a652538969df5d856c5d2cdf1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\ayush\AndroidStudioProjects\AmbulaneDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_24986c43818325be134172166604e4929eb761e9\classes.dex" />
+    </item>
+
+</items>

@@ -18,6 +18,7 @@ android:layout_height="fill_parent"
         tools:layout_editor_absoluteY="0dp" />
 
     <ImageButton
+        android:onClick="goToActivity3"
         android:id="@+id/imageButton7"
         android:layout_width="293dp"
         android:layout_height="57dp"
@@ -25,7 +26,6 @@ android:layout_height="fill_parent"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="41dp"
         android:background="@android:color/transparent"
-        android:onClick="goToActivity3"
         android:scaleType="fitXY"
         app:srcCompat="@drawable/login"
         tools:layout_editor_absoluteX="34dp"

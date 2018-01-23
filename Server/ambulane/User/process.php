@@ -84,9 +84,9 @@ class process {
 			$response["NotificationCheck"] = "false";
 		} */
 
-		while(1) {
+		//while(1) {
 
-			sleep(30);
+			sleep(5);
 			//list of ambulance with status ==ON
 			$data = "SELECT * FROM `location` WHERE 1";
 			$query = mysqli_query($conn, $data);
@@ -114,7 +114,7 @@ class process {
 
 						$c_bearing = 100;
 						$bearing = 100;
-						
+
 						//echo json_encode("before");
 						//echo json_encode($c_bearing);
 						//echo json_encode($bearing);
@@ -138,7 +138,7 @@ class process {
 					}
 				}
 			}
-		}
+		//}
 		return $conn;
 	}
 	// Close function

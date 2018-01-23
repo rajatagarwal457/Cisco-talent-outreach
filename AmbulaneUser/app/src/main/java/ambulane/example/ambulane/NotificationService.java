@@ -65,8 +65,8 @@ public class NotificationService extends Service {
         PendingIntent pendingIntent = PendingIntent.getActivity(this,0,intent, PendingIntent.FLAG_ONE_SHOT);
 
         NotificationCompat.Builder notificationBuilder = new NotificationCompat.Builder(this);
-        notificationBuilder.setContentTitle("NOTIFICATION");
-        notificationBuilder.setContentText("Ambulance Approaching");
+        notificationBuilder.setContentTitle("AMBULANCE APPROACHING");
+        notificationBuilder.setContentText("Please Give Way");
         notificationBuilder.setAutoCancel(true);
         notificationBuilder.setSound(soundUri);
         notificationBuilder.setSmallIcon(icon);

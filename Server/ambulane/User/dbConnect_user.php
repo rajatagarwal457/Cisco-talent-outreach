@@ -49,7 +49,7 @@ class dbConnectUser {
 		echo json_encode($mLongitude);
 		echo json_encode($mBearing);
 
-		$data = "select * from client where c_id='$c_id' ";
+		$data = "SELECT * from client where c_id='$c_id' ";
 
 		$query = mysqli_query($conn, $data);
 

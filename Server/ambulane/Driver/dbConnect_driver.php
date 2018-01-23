@@ -30,7 +30,7 @@ class dbConnectDriver {
 			echo json_encode(" *** dbConn Conn Failed ***");
 		}
 		else {
-			echo json_encode(" *** dbConn Conn Success :) ***");
+			echo json_encode(" *** dbConn Conn Success ***");
 		}
 
 		// Connect to the DB
@@ -76,7 +76,7 @@ class dbConnectDriver {
 			}
 		} else {
 			//add new set if no ambulance data is present
-			$result = mysqli_query($this->conn,"INSERT INTO location(AmbulanceNo,Latitude,Longitude,Bearing) VALUES($mAmbulanceNo,'$mLatitude','$mLongitude','$mBearing')");
+			$result = mysqli_query($conn,"INSERT INTO location(AmbulanceNo,Latitude,Longitude,Bearing) VALUES($mAmbulanceNo,'$mLatitude','$mLongitude','$mBearing')");
 
 			if ($result) {
 				$response["error"] = false;

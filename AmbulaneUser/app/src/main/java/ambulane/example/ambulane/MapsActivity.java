@@ -84,7 +84,7 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
                     ServiceHandler.NotificationCheck = false;
                 }
             }
-        },1*5*1000, 2*60*1000);
+        },1*15*1000, 1*60*1000);
     }
 
     @Override
@@ -160,6 +160,8 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
 
         if (locations == null){
             Log.d("inside", "location = null");
+        } else {
+            Log.d("inside", "location not null");
         }
 
         if (null != locations && null != providerList && providerList.size() > 0) {
@@ -257,7 +259,7 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
         }
     }
 
-    private String URL_LOCATION = "http://192.168.0.42/ambulane/User/add_user_location.php";
+    private String URL_LOCATION = "http://192.168.42.131/ambulane/User/add_user_location.php";
 
     @TargetApi(Build.VERSION_CODES.CUPCAKE)
     private class AddLocation extends AsyncTask<String, Void, Void> {

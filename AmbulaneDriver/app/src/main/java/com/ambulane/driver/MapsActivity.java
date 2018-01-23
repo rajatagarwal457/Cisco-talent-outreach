@@ -289,7 +289,7 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
         }
     }
 
-    private String URL_LOCATION = "http://192.168.0.42/ambulane/driver/add_driver_location.php";
+    private String URL_LOCATION = "http://192.168.42.131/ambulane/driver/add_driver_location.php";
 
     @TargetApi(Build.VERSION_CODES.CUPCAKE)
     private class AddLocation extends AsyncTask<String, Void, Void> {

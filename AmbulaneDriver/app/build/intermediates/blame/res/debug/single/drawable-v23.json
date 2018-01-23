@@ -1,14 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable-v23\\abc_control_background_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\PushNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable-v23\\abc_control_background_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\297313d101a1fb1a6dff9a831350d72e5f123adf\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+        "merged": "C:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\ayush\\.android\\build-cache\\fa28295c3e17935312c3d57bcb312f53d0b49396\\output\\res\\drawable-v23\\abc_control_background_material.xml"
     }
 ]

@@ -1,4 +1,19 @@
-#Fri Jan 12 19:02:02 IST 2018
-base.0=C\:\\Users\\Home\\Downloads\\AmbulaneUser-20180111T132014Z-001\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Mon Jan 22 21:30:37 IST 2018
+path.1=classes.dex
 path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
+base.5=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+base.4=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+base.3=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+base.2=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+base.1=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+base.0=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex

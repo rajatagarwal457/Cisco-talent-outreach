@@ -1,4 +1,4 @@
-#Wed Jan 10 17:18:06 IST 2018
-base.0=C\:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+#Mon Jan 22 09:19:00 IST 2018
+base.0=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
 renamed.0=classes.dex
-file.0=C\:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex
