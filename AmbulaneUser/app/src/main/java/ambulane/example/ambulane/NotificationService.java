@@ -57,7 +57,8 @@ public class NotificationService extends Service {
 
         //define notification attributes
         int icon = R.mipmap.ic_launcher;
-        Uri soundUri= RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);
+        Uri soundUri= Uri.parse("android.resource://"
+                + this.getPackageName() + "/" + R.raw.siren);
         Bitmap bm = BitmapFactory.decodeResource(getResources(), R.mipmap.ic_launcher);
 
         Intent intent = new Intent(this,MapsActivity.class);
@@ -80,7 +81,11 @@ public class NotificationService extends Service {
         Notification notification = notificationBuilder.build();
         notificationManager.notify(0,notificationBuilder.build());
         notification.defaults = Notification.DEFAULT_VIBRATE;
-        notification.defaults = Notification.DEFAULT_SOUND;
+
+        //notification.defaults = Notification.DEFAULT_SOUND;
+        notification.sound = Uri.parse("android.resource://"
+                + this.getPackageName() + "/" + R.raw.siren);
+
 
         Log.d(TAG, "Notification");
 
