@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 #Mon Jan 22 22:30:01 IST 2018
 base.0=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
 renamed.0=classes.dex
 file.0=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex
+=======
+#Mon Jan 22 22:30:01 IST 2018
+base.0=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex
+>>>>>>> 76c10b4b0a8129cada86eb3e78ad559335656ccc

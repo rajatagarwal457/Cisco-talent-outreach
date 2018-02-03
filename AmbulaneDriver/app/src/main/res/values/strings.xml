@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 <resources>
     <string name="app_name">Ambulane Driver</string>
     <string name="title_activity_maps">Ambulane</string>
 </resources>
+=======
+<resources>
+    <string name="app_name">Ambulane Driver</string>
+    <string name="title_activity_maps">Ambulane</string>
+</resources>
+>>>>>>> 76c10b4b0a8129cada86eb3e78ad559335656ccc

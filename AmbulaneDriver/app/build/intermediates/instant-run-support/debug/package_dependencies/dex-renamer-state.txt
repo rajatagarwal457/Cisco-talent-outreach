@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Mon Jan 22 22:30:00 IST 2018
 file.2=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3de17e5f82f7fb258290c8081910c302abc7dd75\\classes.dex
 base.2=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3de17e5f82f7fb258290c8081910c302abc7dd75
@@ -53,3 +54,60 @@ file.4=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\int
 base.4=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_736f1fcf8f31c0a211838796cc22f1a00eae2d6c
 file.3=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_19d4fe6ef3193915cc576a631d489f1b62d3d17e\\classes.dex
 base.3=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_19d4fe6ef3193915cc576a631d489f1b62d3d17e
+=======
+#Mon Jan 22 22:30:00 IST 2018
+file.2=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3de17e5f82f7fb258290c8081910c302abc7dd75\\classes.dex
+base.2=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3de17e5f82f7fb258290c8081910c302abc7dd75
+file.1=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b67fa783eeda9410d5b53d1b609f75ca1d3e6961\\classes.dex
+base.1=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b67fa783eeda9410d5b53d1b609f75ca1d3e6961
+file.0=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_24986c43818325be134172166604e4929eb761e9\\classes.dex
+base.0=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_24986c43818325be134172166604e4929eb761e9
+renamed.9=classes4.dex
+renamed.8=classes2.dex
+renamed.7=classes9.dex
+renamed.6=classes7.dex
+renamed.5=classes8.dex
+renamed.4=classes10.dex
+renamed.3=classes3.dex
+renamed.2=classes6.dex
+renamed.17=classes11.dex
+renamed.1=classes13.dex
+renamed.16=classes17.dex
+renamed.0=classes5.dex
+renamed.15=classes12.dex
+renamed.14=classes14.dex
+renamed.13=classes.dex
+renamed.12=classes15.dex
+base.17=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_87004f0276099c858326390bb9fb5bf323853803
+renamed.11=classes18.dex
+base.16=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\httpcore-4.4.1_4989cdb13c6e0d27332223c6fa5f6fe47575f354
+renamed.10=classes16.dex
+base.15=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9d3326e714eb5dfb9adebdfb1f2a3b8fb2d1313a
+base.14=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c7bdda3b8d972ad5682a5137896d37871d914691
+base.13=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_044d2b274c04d9c71c769efc91ab16598b8a905b
+base.12=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ea4373c6ba7a2b4e7fb4bfb2a833afc701bc50eb
+file.17=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_87004f0276099c858326390bb9fb5bf323853803\\classes.dex
+base.11=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-26.0.0-alpha1_c35e78e9c1038d09003938de97cf8178c251f68c
+file.16=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\httpcore-4.4.1_4989cdb13c6e0d27332223c6fa5f6fe47575f354\\classes.dex
+base.10=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_74a0c75b30fb2693b92143fea24965c4046d4aff
+file.15=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9d3326e714eb5dfb9adebdfb1f2a3b8fb2d1313a\\classes.dex
+file.14=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c7bdda3b8d972ad5682a5137896d37871d914691\\classes.dex
+file.13=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_044d2b274c04d9c71c769efc91ab16598b8a905b\\classes.dex
+file.12=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ea4373c6ba7a2b4e7fb4bfb2a833afc701bc50eb\\classes.dex
+file.11=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-26.0.0-alpha1_c35e78e9c1038d09003938de97cf8178c251f68c\\classes.dex
+file.10=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_74a0c75b30fb2693b92143fea24965c4046d4aff\\classes.dex
+file.9=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1a371845259de758d3722ea40d3550c8db77336d\\classes.dex
+base.9=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1a371845259de758d3722ea40d3550c8db77336d
+file.8=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0ba9323080de018b6bef9c2aa2f9bba9677f4b11\\classes.dex
+base.8=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0ba9323080de018b6bef9c2aa2f9bba9677f4b11
+file.7=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_63724761bed97f502568f40f0a231da81be65d81\\classes.dex
+base.7=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_63724761bed97f502568f40f0a231da81be65d81
+file.6=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_490e2a546003596eb8c3b3d04929183949f55981\\classes.dex
+base.6=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_490e2a546003596eb8c3b3d04929183949f55981
+file.5=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4e8a9bd3209999ac432294026d65b7d29b85c338\\classes.dex
+base.5=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4e8a9bd3209999ac432294026d65b7d29b85c338
+file.4=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_736f1fcf8f31c0a211838796cc22f1a00eae2d6c\\classes.dex
+base.4=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_736f1fcf8f31c0a211838796cc22f1a00eae2d6c
+file.3=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_19d4fe6ef3193915cc576a631d489f1b62d3d17e\\classes.dex
+base.3=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_19d4fe6ef3193915cc576a631d489f1b62d3d17e
+>>>>>>> 76c10b4b0a8129cada86eb3e78ad559335656ccc

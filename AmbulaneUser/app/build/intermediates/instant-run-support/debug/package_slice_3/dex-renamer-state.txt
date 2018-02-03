@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 #Mon Jan 22 09:18:59 IST 2018
 base.0=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
 path.0=classes.dex
 renamed.0=classes.dex
+=======
+#Mon Jan 22 09:18:59 IST 2018
+base.0=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
+>>>>>>> 76c10b4b0a8129cada86eb3e78ad559335656ccc

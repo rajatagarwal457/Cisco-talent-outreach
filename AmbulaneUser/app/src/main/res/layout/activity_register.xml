@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -138,3 +139,145 @@
         android:scaleType="fitCenter"
         app:srcCompat="@drawable/reg" />
 </RelativeLayout>
+=======
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="ambulane.example.ambulane.Register">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/backg2"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="141dp"
+        android:layout_height="22dp"
+        android:layout_alignStart="@+id/editText"
+        android:layout_below="@+id/editText"
+        android:layout_marginTop="23dp"
+        android:text="Confirm Password"
+        android:textColor="#ECF0F1"
+        android:textSize="16dp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="182dp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="141dp"
+        android:layout_height="22dp"
+        android:layout_above="@+id/imageButton"
+        android:layout_marginStart="21dp"
+        android:layout_toEndOf="@+id/textView7"
+        android:text="Already with us ?"
+        android:textColor="#ECF0F1"
+        android:textSize="16dp"
+        tools:layout_editor_absoluteX="119dp"
+        tools:layout_editor_absoluteY="411dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="87dp"
+        android:layout_height="21dp"
+        android:layout_alignStart="@+id/editText"
+        android:layout_below="@+id/editText2"
+        android:layout_marginTop="18dp"
+        android:text="Password"
+        android:textColor="#ECF0F1"
+        android:textSize="16dp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="97dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="47dp"
+        android:layout_height="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/textView7"
+        android:layout_marginTop="28dp"
+        android:text="Email"
+        android:textColor="#ECF0F1"
+        android:textSize="16dp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="336dp"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/editText7"
+        android:layout_below="@+id/textView7"
+        android:ems="10"
+        android:hint="Enter Password"
+        android:inputType="textPassword"
+        android:selectAllOnFocus="false"
+        android:textColor="#ECF0F1"
+        android:textColorHint="#8A8A96"
+        tools:layout_editor_absoluteX="12dp"
+        tools:layout_editor_absoluteY="118dp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        style="@style/Widget.AppCompat.EditText"
+        android:layout_width="336dp"
+        android:layout_height="45dp"
+        android:layout_alignStart="@+id/textView4"
+        android:layout_below="@+id/textView4"
+        android:ems="10"
+        android:hint="Enter Email Address"
+        android:inputType="textEmailAddress"
+        android:textColor="#ECF0F1"
+        android:textColorHint="#8A8A96"
+        tools:layout_editor_absoluteX="12dp"
+        tools:layout_editor_absoluteY="36dp" />
+
+    <EditText
+        android:id="@+id/editText7"
+        android:layout_width="337dp"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/textView3"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="Confirm Password"
+        android:inputType="textPassword"
+        android:textColorHint="#8A8A96" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="315dp"
+        android:layout_height="62dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="8dp"
+        android:background="@android:color/transparent"
+        android:onClick="goToActivity2"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/logi2"
+        tools:layout_editor_absoluteX="23dp"
+        tools:layout_editor_absoluteY="433dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_above="@+id/textView11"
+        android:layout_alignEnd="@+id/imageButton"
+        android:layout_marginBottom="46dp"
+        android:background="@android:color/transparent"
+        android:onClick="goToActivity3"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/reg" />
+</RelativeLayout>
+>>>>>>> 76c10b4b0a8129cada86eb3e78ad559335656ccc

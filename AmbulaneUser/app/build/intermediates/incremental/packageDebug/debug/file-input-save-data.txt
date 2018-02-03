@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+#Internal package file, do not edit.
+#Fri Jan 26 13:36:52 IST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Home\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+0.path=classes.dex
+0.set=DEX
+count=1
+=======
 #Internal package file, do not edit.
 #Mon Jan 22 09:50:30 IST 2018
 2.base=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
@@ -25,3 +34,4 @@ count=6
 1.base=C\:\\Users\\ayush\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
 4.baseType=DIRECTORY
 0.set=DEX
+>>>>>>> 76c10b4b0a8129cada86eb3e78ad559335656ccc

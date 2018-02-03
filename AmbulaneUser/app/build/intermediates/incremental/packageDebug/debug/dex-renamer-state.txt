@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+#Tue Jan 30 17:24:25 IST 2018
+base.0=C\:\\Users\\Home\\AndroidStudioProjects\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+path.0=classes.dex
+renamed.0=classes.dex
+=======
 #Mon Jan 22 21:30:37 IST 2018
 path.1=classes.dex
 path.0=classes.dex
@@ -17,3 +23,4 @@ path.5=classes.dex
 path.4=classes.dex
 path.3=classes.dex
 path.2=classes.dex
+>>>>>>> 76c10b4b0a8129cada86eb3e78ad559335656ccc

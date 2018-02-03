@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Thu Jan 11 08:01:56 IST 2018
 base.0=C\:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f13d75ba95ebfcba40b529dc34d7a63aa49f370d
 renamed.1=classes.dex
@@ -5,3 +6,12 @@ renamed.0=classes2.dex
 file.1=C\:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_afc3a44742d89bccea7df845f9b4683efe09460d\\classes.dex
 base.1=C\:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_afc3a44742d89bccea7df845f9b4683efe09460d
 file.0=C\:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f13d75ba95ebfcba40b529dc34d7a63aa49f370d\\classes.dex
+=======
+#Thu Jan 11 08:01:56 IST 2018
+base.0=C\:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f13d75ba95ebfcba40b529dc34d7a63aa49f370d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_afc3a44742d89bccea7df845f9b4683efe09460d\\classes.dex
+base.1=C\:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_afc3a44742d89bccea7df845f9b4683efe09460d
+file.0=C\:\\Users\\Aditya\\Desktop\\AmbulaneUser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f13d75ba95ebfcba40b529dc34d7a63aa49f370d\\classes.dex
+>>>>>>> 76c10b4b0a8129cada86eb3e78ad559335656ccc

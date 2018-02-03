@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package ambulane.example.ambulane;
 
 import org.junit.Test;
@@ -14,4 +15,22 @@ public class ExampleUnitTest {
     public void addition_isCorrect() throws Exception {
         assertEquals(4, 2 + 2);
     }
+=======
+package ambulane.example.ambulane;
+
+import org.junit.Test;
+
+import static org.junit.Assert.*;
+
+/**
+ * Example local unit test, which will execute on the development machine (host).
+ *
+ * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
+ */
+public class ExampleUnitTest {
+    @Test
+    public void addition_isCorrect() throws Exception {
+        assertEquals(4, 2 + 2);
+    }
+>>>>>>> 76c10b4b0a8129cada86eb3e78ad559335656ccc
 }

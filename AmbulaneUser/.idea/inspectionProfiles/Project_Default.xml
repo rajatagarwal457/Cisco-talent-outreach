@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 <component name="InspectionProjectProfileManager">
   <profile version="1.0">
     <option name="myName" value="Project Default" />
     <inspection_tool class="AndroidLintGradleCompatible" enabled="false" level="ERROR" enabled_by_default="false" />
   </profile>
+=======
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AndroidLintGradleCompatible" enabled="false" level="ERROR" enabled_by_default="false" />
+  </profile>
+>>>>>>> 76c10b4b0a8129cada86eb3e78ad559335656ccc
 </component>

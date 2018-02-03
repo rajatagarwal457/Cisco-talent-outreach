@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ambulane.user.test" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="25" />
+
+    <instrumentation
+        android:name="android.support.test.runner.AndroidJUnitRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.ambulane.user"
+        android:targetPackage="com.ambulane.user" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+=======
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.ambulane.user.test" >
 
@@ -17,4 +37,5 @@
         <uses-library android:name="android.test.runner" />
     </application>
 
+>>>>>>> 76c10b4b0a8129cada86eb3e78ad559335656ccc
 </manifest>
